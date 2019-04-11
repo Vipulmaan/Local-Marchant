@@ -1,7 +1,7 @@
 #username {position:absolute; top:20px; left:20px; text-align:left}
 			#password {position:absolute; top:20px; left:140px; text-align:left}
-			#register {position:absolute; top:41px; left:305px;}
-			#submit {position:absolute; top:41px; left:250px;}
+			#register {position:absolute; top:40px; left:305px;}
+			#submit {position:absolute; top:40px; left:250px;}
 			#check {position:absolute; top:66px; left:17px;}
 #username,#password,#register,#submit,#check{
 	color:black;
